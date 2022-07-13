@@ -76,3 +76,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 npm i create-react-app -g
 create-react-app my-project
 cd my-project
+npm i axios --save
+npm i express cors mongoose body-parser --save
